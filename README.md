@@ -1,4 +1,4 @@
-# js-hw<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <script src="jsHW.js"></script>
